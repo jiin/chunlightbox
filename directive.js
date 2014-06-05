@@ -3,7 +3,7 @@
 /* Directives */
 
 
-angular.module('chunLightBox', ['ngSanitize']).
+angular.module('chun-lightbox', ['ngSanitize']).
   directive('chunlightbox', ['$location', '$rootScope', '$http', function($location, $rootScope, $http) {
     return {
     	restrict: 'E',

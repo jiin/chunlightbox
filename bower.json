@@ -1,20 +1,19 @@
 {
   "name": "chun-lightbox",
   "version": "0.0.1",
-  "authors": [
-    "blotus <neri.barnini@gmail.com>"
-  ],
-  "description": "simple and awesome lightbox only for street fighter addicted",
+  "authors": "blotus <neri.barnini@gmail.com>",
+  "description": "angularjs lightbox only for street fighter players",
   "main": "directive.js",
   "keywords": [
     "lightbox"
   ],
   "license": "MIT",
-  "homepage": "http://neribarnini.me/",
+  "homepage": "http://chunlightbox.neribarnini.me/",
   "ignore": [
     "**/.*",
     "node_modules",
-    "components"
+    "index.html",
+    "package.json"
   ],
   "dependencies": {
     "angular": "~1.3.0"
