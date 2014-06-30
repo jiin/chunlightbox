@@ -1,6 +1,6 @@
 {
   "name": "chun-lightbox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": "blotus <neri.barnini@gmail.com>",
   "description": "angularjs lightbox only for street fighter players",
   "main": "directive.js",
