@@ -2,7 +2,7 @@
 AngularJS lightbox only for street fighter players
 
 ### Installation
-1. [Download latest release](https://github.com/jiin/chunlightbox) or use bower:
+1. [Download latest release](https://github.com/jiin/chunlightbox/releases/latest) or use bower:
 ```
 bower install chun-lightbox
 ```
